@@ -4,4 +4,4 @@ Low adoption rates of catastrophic insurance for floods or mudslides have been i
 
 This project estimates the impact of prices and geographic (long/lat) location on insurance adoption rates. Estimates are obtained using regression and also using a blend of random forest based estimation with linear regression. 
 
-* [mapping and estimating elasticity of insurance adoption](../analytics/femaData.ipynb) 
+* [mapping and estimating elasticity of insurance adoption](https://github.com/petecarkeek/analytics/blob/master/femaData.ipynb) 
