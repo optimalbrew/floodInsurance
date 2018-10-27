@@ -8,6 +8,6 @@ Low adoption rates of catastrophic insurance for floods or mudslides have been i
 
 ![prices](./femaRates.png)
 
-* [mapping and estimating elasticity of insurance adoption](https://github.com/petecarkeek/analytics/blob/master/femaData.ipynb) 
+* [mapping and estimating elasticity of insurance adoption](./femaData.ipynb) 
 
 [D3 version of the maps](https://bl.ocks.org/petecarkeek/7b46a24f7f1cb1a0f5b59cf59b615713) on blocks.org. 
